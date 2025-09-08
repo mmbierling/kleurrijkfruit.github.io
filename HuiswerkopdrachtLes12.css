@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+ header, footer {
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+}
+header {
+  background-color: #99CC99;
+  width: 100%; 
+  height: 150px;
+}
+footer {
+  background-color: #ffcccc;
+  width: 100%; 
+  height: 150px;
+}
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+td {
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #000000;
+}
+#c1a { background-color: #ffffff; }
+#c1b { background-color: #ffffcc; }
+#c1c { background-color: #ffff99; }
+#c1d { background-color: #ffff66; }
+#c2a { background-color: #ff0000; }
+#c2b { background-color: #0000ff; }
+#c2c { background-color: #000000; }
+#c2d { background-color: #ffff00; }
+#c3a { background-color: #ffccff; }
+#c3b { background-color: #ffcccc; }
+#c3c { background-color: #ffcc99; }
+#c3d { background-color: #ffcc66; }
+#c4a { background-color: #ff0099; }
+#c4b { background-color: #00ff00; }
+#c4c { background-color: #cc00ff; }
+#c4d { background-color: #ff9900; }
+
+ #c1a { color: #663300;}
+ #c1b { color: #663366; }
+#c1c { color: #990033; }
+#c1d { color: #000066; }
+#c3a { color: #006666; }
+#c3b { color: #009933; }
+#c3c { color: #003333; }
+#c3d { color: #cc0033; }
